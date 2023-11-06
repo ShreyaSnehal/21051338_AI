@@ -4,7 +4,7 @@ Genetic Algorithm for Image Generation
 
 This repository contains code that uses a Genetic Algorithm (GA) that takes an image as its input and generates the same image using N number of squares. The GA evolves a population of squares to approximate a target image.
 
-#Prerequisites
+## Prerequisites
 
 Before running the code, these libraries should be installed on your system:
 
